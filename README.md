@@ -1,4 +1,4 @@
-# ReactJS Describing the UI Tutorial
+# React Describing the UI Tutorial
 
 ## Resources
 
